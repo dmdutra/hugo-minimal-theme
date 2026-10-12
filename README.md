@@ -1,4 +1,4 @@
-# Dutra Theme
+# Minimal Hugo Theme
 
 A minimal Hugo theme inspired by the personal blog of Gabriel M. Dutra.
 
@@ -12,13 +12,13 @@ A minimal Hugo theme inspired by the personal blog of Gabriel M. Dutra.
 Inside the folder of your Hugo site run:
 
 ```bash
-git submodule add https://github.com/your-username/dutra-theme.git themes/dutra-theme
+git submodule add https://github.com/dmdutra/hugo-minimal-theme.git themes/hugo-minimal-theme
 ```
 
 In your `hugo.toml`:
 
 ```toml
-theme = "dutra-theme"
+theme = "hugo-minimal-theme"
 ```
 
 ## Setup
