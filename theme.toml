@@ -1,8 +1,8 @@
-name = "Dutra Theme"
+Name = "Dutra Theme"
 license = "MIT"
-licenselink = "https://github.com/dmdutra/hugo-theme/blob/master/LICENSE"
+licenselink = "https://github.com/dmdutra/hugo-minimal-theme/blob/master/LICENSE"
 description = "A clean, minimal Hugo theme based on Gabriel M. Dutra's blog"
-homepage = "https://github.com/dmdutra/hugo-theme"
+homepage = "https://github.com/dmdutra/hugo-minimal-theme"
 tags = ["blog", "minimal", "clean"]
 features = ["blog"]
 min_version = "0.41.0"
